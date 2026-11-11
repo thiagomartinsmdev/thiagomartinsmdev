@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1B3A,100:00D9FF&height=200&section=header&text=THIAGO%20MATOSINHOS&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20IN%20PROGRESS&descAlignY=60&descSize=15&animation=fadeIn" />
 
@@ -163,13 +163,19 @@ My personal portfolio website, created to present my professional profile, techn
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thiagomartinsmdev&show_icons=true&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github" />
+```text
+╔══════════════════════════════════════╗
+║          GITHUB DASHBOARD            ║
+╠══════════════════════════════════════╣
+║  PROFILE   :: thiagomartinsmdev      ║
+║  FOCUS     :: SOFTWARE DEVELOPMENT  ║
+║  LANGUAGES :: PYTHON / JAVASCRIPT    ║
+║  DATABASES :: POSTGRESQL / SQL       ║
+║  STATUS    :: ALWAYS LEARNING       ║
+╚══════════════════════════════════════╝
+```
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomartinsmdev&layout=compact&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=FFFFFF" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=thiagomartinsmdev&theme=dark&hide_border=true&background=050816&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+[EXPLORE MY REPOSITORIES](https://github.com/thiagomartinsmdev?tab=repositories)
 
 </div>
 
