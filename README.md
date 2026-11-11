@@ -2,7 +2,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1B3A,100:00D9FF&height=200&section=header&text=THIAGO%20MATOSINHOS&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20IN%20PROGRESS&descAlignY=60&descSize=15&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;Python+%7C+JavaScript;Technology+%7C+Innovation+%7C+Learning;Building+solutions+every+day" alt="Animated typing text" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;Python+%7C+JavaScript;Technology+%7C+Innovation+%7C+Learning;Building+solutions+every+day;Turning+ideas+into+code" alt="Animated typing text" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=thiagomartinsmdev&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile views" />
 
 `PYTHON` · `JAVASCRIPT` · `DATABASES` · `TECHNOLOGY`
 
@@ -25,6 +29,27 @@ Tenho interesse em desenvolvimento de software, bancos de dados, automação e s
 Também tenho experiência como empreendedor, administrando uma loja virtual e lidando com sistemas, plataformas digitais e atendimento ao cliente.
 
 Gosto de aprender novas tecnologias, explorar ferramentas e transformar ideias em projetos práticos.
+
+---
+
+## 🖥️ DEVELOPER ENVIRONMENT
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Thiago Matosinhos"
+        self.location = "Belo Horizonte, Brazil"
+        self.focus = [
+            "Software Development",
+            "Backend",
+            "Databases",
+            "Automation"
+        ]
+        self.status = "Always learning"
+
+    def next_step(self):
+        return "Build something better."
+```
 
 ---
 
@@ -70,13 +95,18 @@ Completed
 
 ## 💻 TECHNICAL KNOWLEDGE
 
-- **Programming:** Python and JavaScript.
-- **Databases:** PostgreSQL, MySQL and SQL Server.
-- **Web:** HTML and CSS.
-- **Version Control:** Git and GitHub.
-- **Development Environment:** Visual Studio Code.
-- **Operating System:** Windows.
-- **Remote Support:** TeamViewer and AnyDesk.
+```javascript
+const technologies = {
+    programming: ["Python", "JavaScript"],
+    databases: ["PostgreSQL", "MySQL", "SQL Server"],
+    web: ["HTML", "CSS"],
+    tools: ["Git", "GitHub", "VS Code"],
+    environment: ["Windows"],
+    remoteSupport: ["TeamViewer", "AnyDesk"]
+};
+
+console.log("Always exploring new technologies...");
+```
 
 ---
 
@@ -129,6 +159,67 @@ My personal portfolio website, created to present my professional profile, techn
 
 ---
 
+## 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thiagomartinsmdev&show_icons=true&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomartinsmdev&layout=compact&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=FFFFFF" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=thiagomartinsmdev&theme=dark&hide_border=true&background=050816&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+
+</div>
+
+---
+
+## 📡 CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+```bash
+┌──(thiago㉿github)-[~/contributions]
+└─$ git log --oneline
+
+> LEARNING
+> BUILDING
+> TESTING
+> IMPROVING
+> REPEATING
+
+[STATUS] Always working on the next project.
+```
+
+**Explore my development activity:**
+
+[VIEW GITHUB CONTRIBUTIONS](https://github.com/thiagomartinsmdev?tab=overview)
+
+</div>
+
+---
+
+## ⚙️ CURRENT DEVELOPMENT
+
+```python
+def development_journey():
+    goals = [
+        "Improve Python skills",
+        "Explore backend development",
+        "Work with databases",
+        "Build practical projects",
+        "Learn new technologies"
+    ]
+
+    for goal in goals:
+        print(f"[IN PROGRESS] {goal}")
+
+development_journey()
+```
+
+---
+
 ## 🎯 CURRENT GOALS
 
 - Improve my Python and JavaScript skills.
@@ -157,18 +248,6 @@ My personal portfolio website, created to present my professional profile, techn
 | Portuguese | Native |
 | English | B1 — Intermediate |
 | Spanish | B1 — Intermediate |
-
----
-
-## 📊 GITHUB ACTIVITY
-
-My GitHub profile is where I share my learning journey, experiments and development projects.
-
-- **Repositories:** Check my public repositories below.
-- **Main interests:** Software Development, Python, JavaScript and Databases.
-- **Focus:** Continuous learning and practical development.
-
-[Explore my GitHub repositories](https://github.com/thiagomartinsmdev?tab=repositories)
 
 ---
 
@@ -205,6 +284,8 @@ Every project is an opportunity to learn something new, improve my skills and bu
 ---
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Building+solutions.;Learning+every+day.;Turning+ideas+into+reality." alt="Animated footer message" />
 
 **"Building solutions, learning every day, and turning ideas into reality."**
 
