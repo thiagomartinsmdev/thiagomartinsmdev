@@ -23,41 +23,52 @@
 </div>
 
 ---
-
 ## 👨‍💻 About Me
 
-```yaml
-developer:
-  name: Thiago Filipe Martins Matosinhos
-  location: Belo Horizonte, Brazil
-  role: Aspiring Junior Software Developer
+### Thiago Filipe Martins Matosinhos
+**Aspiring Junior Software Developer**
 
-  education:
-    degree: Systems Analysis and Development
-    status: In progress
-    technical_background: Electromechanics
+📍 Belo Horizonte, Minas Gerais, Brazil
 
-  programming:
-    - Python
-    - JavaScript
+---
 
-  databases:
-    - MySQL
-    - SQL Server
-    - PostgreSQL
+### 🎓 Education
+- **Systems Analysis and Development (ADS)** — In progress
+- **Technical Degree in Electromechanics** — MRS Logística
+- High School — Completed
 
-  interests:
-    - Software Development
-    - Information Technology
-    - Database Systems
-    - Technical Support
+### 💻 Programming Languages
+- Python
+- JavaScript
 
-  languages:
-    portuguese: Native
-    english: B1 - Intermediate
-    spanish: B1 - Intermediate
+### 🗄️ Databases
+- PostgreSQL
+- MySQL
+- SQL Server
 
-  mindset: "Continuous learning and problem solving."
+### 🛠️ Tools & Technologies
+- Git and GitHub
+- HTML and CSS
+- Visual Studio Code
+- Windows
+- TeamViewer and AnyDesk
+
+### 🌎 Languages
+- Portuguese — Native
+- English — B1 (Intermediate)
+- Spanish — B1 (Intermediate)
+
+### 🎯 Professional Interests
+- Software Development
+- Backend Development
+- Database Systems
+- Information Technology
+- Technical Support
+- AI and Automation
+
+### ✨ Professional Profile
+Proactive, organized, and eager to learn. Good interpersonal communication, teamwork, problem-solving skills, and adaptability to new technologies.
+
 ```
 
 I'm a Systems Analysis and Development student pursuing an opportunity as a Junior Software Developer.
