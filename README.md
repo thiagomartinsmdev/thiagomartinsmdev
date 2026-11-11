@@ -24,7 +24,7 @@
 
 ---
 
-## `01` // ABOUT ME
+## 👨‍💻 About Me
 
 ```yaml
 developer:
