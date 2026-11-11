@@ -55,7 +55,6 @@ Completed
 ### Databases
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
-<img src="https://img.shields.io/badge/SQL%20Server-050816?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" />
 
 ### Web Development
 
