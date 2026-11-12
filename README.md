@@ -234,24 +234,6 @@ development_journey()
 
 </div>
 
-<details>
-<summary><b>📈 More stats and trophies</b> (click to expand)</summary>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=thiagomartinsmdev&show_icons=true&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&count_private=true" width="49%" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomartinsmdev&layout=compact&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=FFFFFF" width="49%" alt="Top languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thiagomartinsmdev&bg_color=050816&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true" width="98%" alt="Contribution graph" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=thiagomartinsmdev&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" width="98%" alt="GitHub trophies" />
-
-</div>
-
-</details>
-
 ---
 
 ## 🐍 CONTRIBUTION SNAKE
