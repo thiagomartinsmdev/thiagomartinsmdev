@@ -1,6 +1,6 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1B3A,100:00D9FF&height=200&section=header&text=THIAGO%20MATOSINHOS&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20IN%20PROGRESS&descAlignY=60&descSize=15&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1B3A,100:00D9FF&height=200&section=header&text=THIAGO%20MARTINS&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20IN%20PROGRESS&descAlignY=60&descSize=15&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;Python+%7C+JavaScript;Technology+%7C+Innovation+%7C+Learning;Building+solutions+every+day;Turning+ideas+into+code" alt="Animated typing text" />
 
