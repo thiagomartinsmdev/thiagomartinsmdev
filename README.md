@@ -144,7 +144,37 @@ console.log("Always exploring new technologies...");
 
 ---
 
-## 🚀 FEATURED PROJECT
+## 🚀 FEATURED PROJECTS
+
+<div align="center">
+
+<a href="https://github.com/thiagomartinsmdev/estoque-api">
+<img src="https://img.shields.io/badge/API_DE_ESTOQUE-050816?style=for-the-badge&logo=fastapi&logoColor=00D9FF" alt="API de Estoque" />
+</a>
+<img src="https://img.shields.io/badge/PostgreSQL-050816?style=for-the-badge&logo=postgresql&logoColor=00D9FF" alt="PostgreSQL" />
+<img src="https://img.shields.io/github/last-commit/thiagomartinsmdev/estoque-api?style=for-the-badge&labelColor=050816&color=00D9FF" alt="Last commit" />
+
+</div>
+
+### API de Estoque
+
+API REST para controle de produtos e estoque, pensada a partir da rotina da minha loja virtual.
+
+- CRUD completo de produtos, com filtros, busca por nome e paginação.
+- Entrada e saída de estoque, com bloqueio de estoque negativo.
+- Relatório-resumo com total de itens, valor em estoque e alertas de estoque baixo.
+- Validação de dados, documentação automática (Swagger) e testes com pytest.
+
+**Technologies:** Python, FastAPI, SQLAlchemy and PostgreSQL.
+
+<div align="center">
+
+<a href="https://github.com/thiagomartinsmdev/estoque-api"><img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-00D9FF?style=for-the-badge&logo=github&logoColor=050816" alt="View source code" /></a>
+
+</div>
+
+<br/>
+
 
 <div align="center">
 
