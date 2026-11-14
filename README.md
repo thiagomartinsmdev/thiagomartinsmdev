@@ -210,7 +210,6 @@ Meu portfólio pessoal, criado para apresentar meu perfil profissional, meus con
 | Course | Institution | Status |
 | :-- | :-- | :-- |
 | **Systems Analysis and Development (ADS)** | Ensino Superior | 🟢 In progress |
-| **Technical Degree in Electromechanics** | MRS Logística | ✅ |
 | **High School** | — | ✅ Completed |
 
 ---
