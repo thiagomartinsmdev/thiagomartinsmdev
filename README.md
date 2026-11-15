@@ -178,11 +178,39 @@ API REST para controle de produtos e estoque, pensada a partir da rotina da minh
 
 <div align="center">
 
-<a href="https://github.com/thiagomartinsmdev/thiagomm13.github.io">
+<a href="https://github.com/thiagomartinsmdev/painel-estoque">
+<img src="https://img.shields.io/badge/PAINEL_DE_ESTOQUE-050816?style=for-the-badge&logo=javascript&logoColor=00D9FF" alt="Painel de Estoque" />
+</a>
+<img src="https://img.shields.io/github/last-commit/thiagomartinsmdev/painel-estoque?style=for-the-badge&labelColor=050816&color=00D9FF" alt="Last commit" />
+
+</div>
+
+### Painel de Estoque
+
+Painel web que consome a API de Estoque: tela para acompanhar e gerenciar os produtos, com modo demonstração para testar online.
+
+- Resumo do estoque, com valor total e alertas de estoque baixo.
+- Cadastro, edição, exclusão e ajuste de estoque, com busca, filtros e paginação.
+- Layout responsivo, em tema escuro, feito sem bibliotecas.
+
+**Technologies:** HTML, CSS and JavaScript.
+
+<div align="center">
+
+<a href="https://thiagomartinsmdev.github.io/painel-estoque/"><img src="https://img.shields.io/badge/LIVE_DEMO-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=050816" alt="Live demo" /></a>
+<a href="https://github.com/thiagomartinsmdev/painel-estoque"><img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-00D9FF?style=for-the-badge&logo=github&logoColor=050816" alt="View source code" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/thiagomartinsmdev/thiagomartinsmdev.github.io">
 <img src="https://img.shields.io/badge/PERSONAL_PORTFOLIO-050816?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Personal Portfolio" />
 </a>
-<img src="https://img.shields.io/github/languages/top/thiagomartinsmdev/thiagomm13.github.io?style=for-the-badge&labelColor=050816&color=00D9FF" alt="Main language" />
-<img src="https://img.shields.io/github/last-commit/thiagomartinsmdev/thiagomm13.github.io?style=for-the-badge&labelColor=050816&color=00D9FF" alt="Last commit" />
+<img src="https://img.shields.io/github/languages/top/thiagomartinsmdev/thiagomartinsmdev.github.io?style=for-the-badge&labelColor=050816&color=00D9FF" alt="Main language" />
+<img src="https://img.shields.io/github/last-commit/thiagomartinsmdev/thiagomartinsmdev.github.io?style=for-the-badge&labelColor=050816&color=00D9FF" alt="Last commit" />
 
 </div>
 
@@ -199,7 +227,7 @@ Meu portfólio pessoal, criado para apresentar meu perfil profissional, meus con
 
 <div align="center">
 
-<a href="https://github.com/thiagomartinsmdev/thiagomm13.github.io"><img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-00D9FF?style=for-the-badge&logo=github&logoColor=050816" alt="View source code" /></a>
+<a href="https://github.com/thiagomartinsmdev/thiagomartinsmdev.github.io"><img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-00D9FF?style=for-the-badge&logo=github&logoColor=050816" alt="View source code" /></a>
 
 </div>
 
@@ -210,6 +238,7 @@ Meu portfólio pessoal, criado para apresentar meu perfil profissional, meus con
 | Course | Institution | Status |
 | :-- | :-- | :-- |
 | **Systems Analysis and Development (ADS)** | Ensino Superior | 🟢 In progress |
+| **Technical Degree in Electromechanics** | MRS Logística | ✅ |
 | **High School** | — | ✅ Completed |
 
 ---
